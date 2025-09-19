@@ -1,23 +1,19 @@
 # Spots
 
-(spots.png)
-
 ## Description
 
-- Intro
-- Figma
-- Images
+This project is made to create a webpage from a template design. The design is simple and is a still page with no functionality. This project was designed to showcase the recreation of the template and its new functionality from buttons and grid layouts that adjust according to their demension sizing.
 
 **Tech Stack**
 
-This project is made so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.
+-HTML
+-CSS
+-Responsive Design
 
-**Figma**
+## Deployment
 
-- [Link to the project on Figma](https://www.figma.com/file/BBNm2bC3lj8QQMHlnqRsga/Sprint-3-Project-%E2%80%94-Spots?type=design&node-id=2%3A60&mode=design&t=afgNFybdorZO6cQo-1)
+Deployed GitHub Pages
 
-**Images**
+## Spots Overview
 
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster.
-
-Good luck and have fun!
+https://youtu.be/5_1XU5EM6y4
